@@ -1,0 +1,6 @@
+{
+  "name": "Petpooja Dashboard",
+  "description": "A live, multi-outlet restaurant sales dashboard for real-time tracking of billing, inventory, and performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
